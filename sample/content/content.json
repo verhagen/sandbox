@@ -1,0 +1,28 @@
+{
+    [
+        {
+            'id': 'XX001',
+            'text': 'some description',
+            {
+                'id': '001',
+                'text': 'sub item'
+            },
+            {
+                'id': '002',
+                'text': '2nd sub item'
+            }
+        },
+        {
+            'id': 'XX002',
+            'text': 'some description',
+            {
+                'id': '001',
+                'text': 'sub item'
+            },
+            {
+                'id': '002',
+                'text': '2nd sub item'
+            }
+        }
+    ]
+}
