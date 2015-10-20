@@ -15,4 +15,7 @@
 
 # Show Version
 
-[![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg?style=plastic)](http://mvnrepository.com/artifact/org.testng/testng/6.9.8)
+
+
+[![Maven Central](https://img.shields.io/maven-central/v/org.testng/testng.svg?style=plastic)](http://mvnrepository.com/artifact/org.testng/testng/6.9.8)
+
