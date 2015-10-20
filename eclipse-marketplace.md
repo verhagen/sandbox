@@ -10,4 +10,4 @@
 
 | Name | Update Site | Remark |
 | ----- | ----- | ----- |
-| Buckminster | http://download.eclipse.org/tools/buckminster/headless-4.5/ | See [Downloads](https://www.eclipse.org/buckminster/downloads.html) for other Eclipse versions |
+| Buckminster | `http://download.eclipse.org/tools/buckminster/headless-4.5/` | See [Downloads](https://www.eclipse.org/buckminster/downloads.html) for other Eclipse versions |
